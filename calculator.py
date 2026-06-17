@@ -1,22 +1,4 @@
-#def add(a,b):  # add
-#    return a+b
-
-#def sub(a,b):  # sub
-#    return a-b
-
-#def mul(a,b):  # mul
-#    return a*b
-
-#def div(a,b):  # div
-#    return a/b
-
-#a = int(input("Enter first number: "))
-#b = int(input("Enter second number: "))
-
-#print("Add =", add(a,b))
-#print("Sub =", sub(a,b))
-#print("Mul =", mul(a,b))
-#print("Div =", div(a,b))
+# calculator programme
 
 def add(a, b):
     return a + b
